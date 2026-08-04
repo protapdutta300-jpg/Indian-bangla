@@ -11,6 +11,9 @@ https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Colors bangla HD
+http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Colors bangla HD
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="logo",Colors bangla HD
